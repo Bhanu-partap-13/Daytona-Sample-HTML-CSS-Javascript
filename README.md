@@ -1,7 +1,34 @@
-# Daytona-Sample-HTML-CSS-Javascript
-This repository contains a simple web page built using HTML, CSS, and JavaScript to calculate BMI (Body Mass Index). The application allows users to input their weight and height, and it calculates their BMI along with a classification based on standard BMI categories.
+This repository contains a README file sample for Daytona Samples and the MIT License.
 
-## Start the Application using 
+It can be used as a template to create sample repositories that can be added into [Daytona](https://github.com/daytonaio/daytona).
 
-``` bash
-npm run dev
+Once you finish your sample and it gets merged, you can open a PR in the Daytona repo and submit the sample into the [index file](https://github.com/daytonaio/daytona/blob/main/hack/samples/index.json).
+
+# Sample <LANGUAGE/FRAMEWORK>
+
+Sample description
+
+---
+
+## 🚀 Getting Started  
+
+### Open Using Daytona  
+
+1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).  
+2. **Create the Workspace**:  
+   ```bash  
+   daytona create <SAMPLE_REPO_URL> 
+   ```  
+
+... MORE STEPS IF NEEDED ...
+
+4. **Start the Application**:  
+   ```bash  
+   command to start the app
+   ```  
+
+---
+
+## ✨ Features  
+
+List of sample features (e.g. realtime chat app, standardized development environment with devcontainers)
