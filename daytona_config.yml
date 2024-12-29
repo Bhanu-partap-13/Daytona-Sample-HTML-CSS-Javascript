@@ -1,4 +1,0 @@
-
-build: []
-run:
-  - command: "live-server ."
