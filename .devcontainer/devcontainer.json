@@ -1,0 +1,6 @@
+{
+  "name": "Daytona-Sample-HTML-CSS-Javascript",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node",
+  "forwardPorts": [8080],
+  "postCreateCommand": "cd bmi-calculator-daytona && npm install"
+}
